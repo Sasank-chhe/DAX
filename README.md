@@ -12,7 +12,7 @@
 
 - cd DAX
 
-- python Dax.py
+- python dax.py
 
 # Screenshots
 ![Githubstates](https://github.com/pandaxak/DAX/blob/main/IMG_20211229_233335.jpg)
