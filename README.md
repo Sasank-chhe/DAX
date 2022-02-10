@@ -1,6 +1,6 @@
 # DAX
 
-# Download Tools And Update Termux With This Tool
+# Download Tools And Setup Termux With This Tool
 
 - apt update && upgrade -y
 
