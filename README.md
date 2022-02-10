@@ -15,4 +15,4 @@
 - python dax.py
 
 # Screenshots
-![Githubstates](https://github.com/pandaxak/DAX/blob/main/IMG_20211229_233335.jpg)
+![Githubstates](https://github.com/pandaxak/DAX/blob/main/IMG_20220210_191259.jpg)
